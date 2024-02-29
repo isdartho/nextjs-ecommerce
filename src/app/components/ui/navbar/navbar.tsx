@@ -16,9 +16,9 @@ const NavBar = () => {
                 </div>
                 <div className="flex items-center">
                     <ul className="flex space-x-4">
-                        <li><a href="#" className="hover:text-white">Home</a></li>
+                        <li><a href="/" className="hover:text-white">Home</a></li>
                         <li><a href="#" className="hover:text-white">About</a></li>
-                        <li><a href="#" className="hover:text-white">Products</a></li>
+                        <li><a href="/shop" className="hover:text-white">Shop</a></li>
                         <li><a href="#" className="hover:text-white">Contact</a></li>
                     </ul>
                 </div>
